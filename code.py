@@ -1,0 +1,1 @@
+print("hello world welcome to 10k coders")
